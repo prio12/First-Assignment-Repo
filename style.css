@@ -156,3 +156,29 @@ body {
     color: white;
     text-decoration: none;
 }
+
+.contact-container {
+    display: flex;
+}
+
+#contact-container-placement {
+    margin-top: 80px;
+    margin-left: 40%;
+}
+
+#email {
+    color: #000;
+    border: none;
+    background-color: #F5DEB3;
+    padding: 7px;
+    width: 250px;
+}
+
+
+.btn {
+    background-color: #FF6347;
+    border: none;
+    padding: 5px;
+    color: white;
+    width: 20%;
+}
