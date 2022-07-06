@@ -3,6 +3,7 @@ body {
     margin: 0;
     margin-top: 0;
 }
+
 #header-bg {
     background-image: url(header.jpg);
     background-repeat: no-repeat;
@@ -10,22 +11,37 @@ body {
     width: 100%;
     height: 600px;
 }
+
 .header-text {
     text-align: center;
     padding: 100px;
     color: white;
 }
+
 .header-title {
     font-size: 50px;
     font-weight: bold;
 }
+
 .header-para {
     margin-bottom: 35px;
 }
+
 .Donate-link {
     background-color: dodgerblue;
     padding: 10px;
     text-decoration: none;
     border-radius: 5px;
     color: white;
+}
+
+.body-header {
+    text-align: center;
+    margin-top: 80px;
+}
+
+.flex-container {
+    display: flex;
+    margin-top: 40px;
+    margin-left: 40%;
 }
