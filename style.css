@@ -192,5 +192,12 @@ footer {
 }
 
 .footer-header {
+    font-family: 'Dancing Script', cursive;
+    font-size: 35px;
     color: #FF6347;
+}
+
+.footer-text {
+    color: white;
+    font-size: 10px;
 }
