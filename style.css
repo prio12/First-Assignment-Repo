@@ -125,8 +125,18 @@ body {
 }
 
 
-#content-text {
+ #content-text {
     margin-left: 150px;
     text-align: justify;
 }
 
+
+.contact-sec {
+    margin-right: 100px;
+    
+    
+}
+
+#fb-icon {
+    margin-right: 40px;
+} 
