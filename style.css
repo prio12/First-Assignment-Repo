@@ -44,7 +44,7 @@ body {
     display: flex;
     margin-top: 40px;
     margin-left: 30%;
-    margin-bottom: 30px;
+    margin-bottom: 40px;
 }
 
 .container-box {
@@ -60,4 +60,20 @@ body {
     font-weight: bold;
     color: dodgerblue;
     border: 1px solid dodgerblue;
+}
+
+.amount-placement {
+    text-align: center;
+}
+
+#placing-amount {
+    width: 50%;
+    border: none;
+    border-bottom: 1px solid gray;
+}
+
+
+::placeholder {
+    color:gray;
+    padding-left: 40%;
 }
