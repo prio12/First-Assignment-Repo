@@ -84,7 +84,7 @@ body {
     width: 100%;
 }
 
-#fig-icon {
+.fig-icon {
     margin-right: 185px;
     margin-top: 80px;
     margin-bottom: 80px;
@@ -138,5 +138,21 @@ body {
 }
 
 #fb-icon {
-    margin-right: 40px;
+    background-color:#DEB887;
+    text-align: center;
 } 
+
+#wapp-icon {
+    background-color: aquamarine;
+    text-align: center;
+}
+
+#insta-icon {
+    background-color: rgba(205, 92, 92,0.5);
+    text-align: center;
+}
+.social-link {
+    background-color: black;
+    color: white;
+    text-decoration: none;
+}
