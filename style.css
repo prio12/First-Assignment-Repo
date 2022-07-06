@@ -89,3 +89,44 @@ body {
     margin-top: 80px;
     margin-bottom: 80px;
 }
+
+
+#edu-icon-bg {
+    background-color: #FFE4C4;
+}
+
+
+#shelter-icon-bg {
+    background-color:rgba(255, 182, 193,0.4);
+}
+
+
+#food-icon-bg {
+    background-color: rgba(189, 183, 107,0.3);
+}
+
+.flex-container2 {
+    display: flex;
+    margin-bottom: 50px;
+
+}
+
+.half-width {
+    width: 50%;
+}
+.flex-container2 img {
+    width: 80%;
+
+}
+
+#content-image {
+    border: 2px solid white;
+    border-radius: 5px;
+}
+
+
+#content-text {
+    margin-left: 150px;
+    text-align: justify;
+}
+
