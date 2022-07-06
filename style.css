@@ -19,13 +19,13 @@ body {
     font-size: 50px;
     font-weight: bold;
 }
+.header-para {
+    margin-bottom: 35px;
+}
 .Donate-link {
     background-color: dodgerblue;
     padding: 10px;
     text-decoration: none;
     border-radius: 5px;
     color: white;
-}
-.header-para {
-    margin-bottom: 35px;
 }
