@@ -4,4 +4,15 @@ body {
 header {
     text-align: center;
     margin-top: 60px;
+    background-image: url();
+}
+.header-title {
+    font-size: 40px;
+}
+.submit-button {
+    text-decoration: none;
+    background-color: aquamarine;
+    padding: 7px;
+    cursor: pointer;
+    color:black;
 }
