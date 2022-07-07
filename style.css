@@ -162,25 +162,41 @@ body {
 }
 
 #contact-container-placement {
-    margin-top: 80px;
-    margin-left: 40%;
+   margin:50px;
+   padding: 80px;
+   border:1px solid ;
+   background-color: #DEB887;
+   border:none;
+   
 }
 
-#email {
-    color: #000;
-    border: none;
-    background-color: #F5DEB3;
+
+.contact-section {
+border: 2px solid #E9967A;
+width: 60%;
+height: 150px;
+margin-left: 250px;
+margin-top: 50px;
+background-color: #DEB887;
+border: none;
+}
+
+.contact-body {
+    margin-left: 240px;
+    margin-top: 50px;
     padding: 7px;
-    width: 250px;
+    width: 30%;
+    border: none;
+    background-color: #FFE4C4;
+    color: white;
 }
-
 
 .btn {
-    background-color: #FF6347;
+    margin-right: 20px;
+    padding: 7px;
     border: none;
-    padding: 5px;
+    background-color: #FF6347;
     color: white;
-    width: 20%;
 }
 
 footer {
