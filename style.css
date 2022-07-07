@@ -192,7 +192,6 @@ border: none;
 }
 
 .btn {
-    margin-right: 20px;
     padding: 7px;
     border: none;
     background-color: #FF6347;
@@ -211,9 +210,11 @@ footer {
     font-family: 'Dancing Script', cursive;
     font-size: 35px;
     color: #FF6347;
+    margin-right: 50px;
 }
 
 .footer-text {
     color: white;
     font-size: 10px;
+    margin-right: 50px;
 }
